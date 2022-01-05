@@ -1,0 +1,30 @@
+{
+  "name": "doc-extractor",
+  "version": "1.0.0",
+  "description": "Document Extractor (PDFs, JPGs, Word, Ect...)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylortechdigital/doc-extractor.git"
+  },
+  "keywords": [
+    "Document",
+    "Parser",
+    "Extractor",
+    "PDF",
+    "JPG",
+    "WORD"
+  ],
+  "author": "Thonda Taylor II <TaylorTechDigital@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taylortechdigital/doc-extractor/issues"
+  },
+  "homepage": "https://github.com/taylortechdigital/doc-extractor#readme",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
